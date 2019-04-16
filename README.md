@@ -1,4 +1,5 @@
 # MemoryAR - A Memory Training AR Game
+## [Final Report Available Here.](https://github.com/SimLongXiang/CZ4001-MemoryAR/blob/master/MemoryAR%20-%20Report.docx)
 
 ![alt text](https://github.com/SimLongXiang/CZ4001-MemoryAR/blob/master/MemoryARScreenShot/Screenshot_20190414-194900.jpg)
 
